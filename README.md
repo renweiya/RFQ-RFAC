@@ -4,6 +4,7 @@ Represented Value Function Approach for Large Scale Multi Agent Reinforcement Le
 
 A Tensorflow implementation of RFAC and RFQ in the paper [Represented Value Function Approach for Large Scale Multi Agent Reinforcement Learning ](https://arxiv.org/abs/2001.01096).
 
+
  
 ## Code structure
 
@@ -13,7 +14,7 @@ A Tensorflow implementation of RFAC and RFQ in the paper [Represented Value Func
 - `train_battle.py`: contains code for training Battle Game models
 - `wildwar_ELO_single.py`: contains code for testing Wild war game by Elo Scores among all players
 - `battle_ELO_single`: contains code for testing Battle game by Elo Scores among all players
-
+- `data`: pre-trained model, download from https://pan.baidu.com/s/15ww2DGOv97jLMNFSDfNbiA   Extracted code: g8eb
 ## Compile Ising environment and run
 
 **Requirements**
