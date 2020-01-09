@@ -30,8 +30,7 @@ cd Represented_Value Function_MARL/examples/battle_model
 bash build.sh
 **Steps for training models under Battle Game settings**
 
-1. 
-cd Represented_Value Function_MARL
+1. cd Represented_Value Function_MARL
 export PYTHONPATH=./examples/battle_model/python:${PYTHONPATH}
 
 2. Run training script for training (e.g. rfac):
