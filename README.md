@@ -6,7 +6,7 @@ A Tensorflow implementation of RFAC and RFQ in the paper [Represented Value Func
 
  This work is based on the code framework in [MFQ-MFAC](https://github.com/mlii/mfrl.git)
  
- ![Gif](train 64 agents and test 500 agents in wild war senario)(https://github.com/renweiya/RFQ-RFAC/blob/master/2.gif)
+ ![Gif](https://github.com/renweiya/RFQ-RFAC/blob/master/2.gif)(train 64 agents and test 500 agents in wild war senario)
 
 ## Code structure
 
