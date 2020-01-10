@@ -75,7 +75,7 @@ If you found it helpful, consider citing the following paper:
   booktitle = 	 {arXiv:2001.01096v1},
   year = 	 {2020},
   address = 	 {China},
-  month = 	 {Jan}
+  month = 	 {4 Jan}
 }
 </pre>
 <pre>
