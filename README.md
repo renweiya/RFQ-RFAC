@@ -4,7 +4,7 @@ Represented Value Function Approach for Large Scale Multi Agent Reinforcement Le
 
 A Tensorflow implementation of RFAC and RFQ in the paper [Represented Value Function Approach for Large Scale Multi Agent Reinforcement Learning ](https://arxiv.org/abs/2001.01096).
 
- This work is based on the code framework in [MFQ-MFAC]（https://github.com/mlii/mfrl.git）
+ This work is based on the code framework in [MFQ-MFAC](https://github.com/mlii/mfrl.git)
  
 ## Code structure
 
