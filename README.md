@@ -31,39 +31,40 @@ Before running Battle Game environment, you need to compile it. You can get more
 cd Represented_Value Function_MARL/examples/battle_model
 
 bash build.sh
+
 **Steps for training models under Battle Game settings**
 
 1. cd Represented_Value Function_MARL
 
-export PYTHONPATH=./examples/battle_model/python:${PYTHONPATH}
+ export PYTHONPATH=./examples/battle_model/python:${PYTHONPATH}
 
 2. Run training script for training (e.g. rfac):
 
-python train_battle.py --algo rfac
+ python train_battle.py --algo rfac
 
 3.train your model and change the name of model file form 1999 to 1999A,1999B,...
 
 **Steps for testing models under Battle Game and Wild_war Game**
 
-4. Battle Game
+1. Battle Game
 
-python battle.py --algo mfq --oppo rfac --idx {1999A,1999A}
+ python battle.py --algo mfq --oppo rfac --idx {1999A,1999A}
 
-5. Wild war Game
+2. Wild war Game
 
-python wild_war.py --algo mfq --oppo rfac --idx {1999A,1999A}
+ python wild_war.py --algo mfq --oppo rfac --idx {1999A,1999A}
 
-6. Compute Elo scores
+3. Compute Elo scores
 
-python battle_ELO_single.py
+ python battle_ELO_single.py
 
-python wildwar_ELO_single.py
+ python wildwar_ELO_single.py
 
 7. once you open a terminal,type:
 
-export PYTHONPATH=./examples/battle_model/python:${PYTHONPATH}
+ export PYTHONPATH=./examples/battle_model/python:${PYTHONPATH}
 
-or you can edit the ~/.bashrc file to save time. 
+ or you can edit the ~/.bashrc file to save time. 
 
 ## Paper citation
 If you found it helpful, consider citing the following paper:
