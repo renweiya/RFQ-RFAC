@@ -6,6 +6,8 @@ A Tensorflow implementation of RFAC and RFQ in the paper [Represented Value Func
 
  This work is based on the code framework in [MFQ-MFAC](https://github.com/mlii/mfrl.git)
  
+ ![image](https://github.com/renweiya/RFQ-RFAC/blob/master/2.gif)
+
 ## Code structure
 
 - `./examples/`: contains scenarios for Game and models.
