@@ -28,9 +28,9 @@ Before running Battle Game environment, you need to compile it. You can get more
 
 **Steps for compiling**
 
-cd Represented_Value Function_MARL/examples/battle_model
+   cd Represented_Value Function_MARL/examples/battle_model
 
-bash build.sh
+   bash build.sh
 
 **Steps for training models under Battle Game settings**
 
@@ -42,7 +42,7 @@ bash build.sh
 
    python train_battle.py --algo rfac
 
-3.train your model and change the name of model file form 1999 to 1999A,1999B,...
+3. train your model and change the name of model file form 1999 to 1999A,1999B,...
 
 **Steps for testing models under Battle Game and Wild_war Game**
 
