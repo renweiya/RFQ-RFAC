@@ -28,9 +28,9 @@ Before running Battle Game environment, you need to compile it. You can get more
 
 **Steps for compiling**
 
-`1. cd Represented_Value Function_MARL/examples/battle_model`
+  1. `cd Represented_Value Function_MARL/examples/battle_model`
 
-`2. bash build.sh`
+  2. `bash build.sh`
 
 **Steps for training models under Battle Game settings**
 
